@@ -16,7 +16,7 @@ FEATURES:
 
 PARTS:
  * 1x Arduino Uno https://prnt.sc/rfpl6c
- * 1x Arduino LCD button shield https://prnt.sc/rfpd3e
+ * 1x Arduino LCD keypad shield https://prnt.sc/rfpd3e
  * 1x 38Khz IR irReceiverPin https://prnt.sc/rfpkdm
  * 1x Arduino 5v Relay https://prnt.sc/rfpe1k
  * 1x 12v alarm siren of some sort 
