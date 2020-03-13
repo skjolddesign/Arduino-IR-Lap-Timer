@@ -604,7 +604,7 @@ void deleteRecords(){
  writeRecord1();
  writeRecord2();
  lcd.clear();
- lcd.print("Rekorder slettet");
+ lcd.print("Records cleared");
 }
 
 
